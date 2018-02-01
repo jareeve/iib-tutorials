@@ -42,30 +42,30 @@
 					]
 				},
 				{
-					"name"          : "app connect",
+					"name"          : "Calling an IBM Integration Bus Callable Flow from App Connect Enterprise",
 					"version"	: "1.0",
 					"iibVersions"	: "10.*-11.*",
-					"shortDesc"     : "Learn how to use the LoopBackRequest node to create a JSON document in a Cloudant database (requires IBM Integration Bus v10 fixpack 6 or later).",
+					"shortDesc"     : "Calling an IBM Integration Bus Callable Flow from App Connect Enterprise",
 					"detailsURL"    : "https://jareeve.github.io/appconnect-iib-tutorial/en/details.html",
 					"stepsURL"      : "https://jareeve.github.io/appconnect-iib-tutorial/en/steps.html",
 					"zipURL" 	: "https://github.com/ot4i/loopback-tutorial/releases/download/v2.0/PI_LoopbackTutorial.zip",
 					"barFile" 	: "",
 					"visible"	: "true",
-					"tags"		: "loopback",
+					"tags"		: "App Connect",
 					"isPattern"	: "false",
 					"isFavorite"	: "true",
-					"projects"	: "LoopBack",
+					"projects"	: "AppConnectToIIB",
 					"editorResPaths": [
 						{
 							"id" : "MainFlow",
 							"editor" : "",
-							"wspath" : "<workspace>/LoopBack/LoopBack_Cloudant.msgflow"
+							"wspath" : "<workspace>/AppConnectToIIB/WriteDataToFileAsXML.msgflow"
 						}
 					],
 					"deployedResources" : [
 						{
 							"type": "application",
-							"path": "LoopBack"
+							"path": "AppConnectToIIB"
 						}
 					]
 				},
