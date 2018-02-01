@@ -49,7 +49,7 @@
 					"detailsURL"    : "https://jareeve.github.io/appconnect-iib-tutorial/en/details.html",
 					"stepsURL"      : "https://jareeve.github.io/appconnect-iib-tutorial/en/steps.html",
 					"zipURL" 	: "https://github.com/ot4i/loopback-tutorial/releases/download/v2.0/PI_LoopbackTutorial.zip",
-					"barFile" 	: "",
+					"barFile" 	: "<workspace>/WorkloadManagementApplication/wlm.bar",
 					"visible"	: "true",
 					"tags"		: "App Connect",
 					"isPattern"	: "false",
